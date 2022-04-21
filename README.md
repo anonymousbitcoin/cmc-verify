@@ -8,4 +8,8 @@ discord - https://discord.gg/9XQMspU
 
 twitter - @ANON_WeAreANON
 
+explorer - http://explorer.anon.community
+
+explorer - https://explorer.anon.zelcore.io/
+
 # cmc-verify
